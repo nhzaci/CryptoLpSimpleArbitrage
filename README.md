@@ -103,10 +103,13 @@ You will need: 7.57786 ETH; and you will profit: 0.000272033
 ### Pool
 status()
   - shows current token quantities and k
+
 add()
   - adds token to pool
+
 remove()
   - removes token from pool
+
 swap()
   - swaps one token for another in a pool
   - fee of 0.3% applied
